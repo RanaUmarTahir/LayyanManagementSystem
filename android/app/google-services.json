@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162999154945",
+    "project_id": "layyans-eca3a",
+    "storage_bucket": "layyans-eca3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162999154945:android:540abeed3569bd7bdd8300",
+        "android_client_info": {
+          "package_name": "com.layyan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFknjV_EeawO3b6fauZwVVlxWwoVM6L1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
